@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://seanpurcell.github.io/deleteme
+
+# Sitemaps
+Sitemap: https://seanpurcell.github.io/deleteme/sitemap.xml
